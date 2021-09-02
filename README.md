@@ -1,4 +1,4 @@
-Original from Emily Bache (see [github] (https://github.com/emilybache/GildedRose-Refactoring-Kata))
+Original from Emily Bache [github](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Gilded Rose Refactoring Kata
 
